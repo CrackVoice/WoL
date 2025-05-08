@@ -46,7 +46,7 @@ The code is a rewrite of the original C++ version by [Luckeris](https://github.c
 
 ## Credits
 Original project by [Luckeris](https://github.com/Luckeris).  
-Python and additional improvements by [Your GitHub Username].
+Python and additional improvements by [CrackVoice](https://github.com/CrackVoice).
 
 ## License
 This project is open-source and available under the MIT License.
